@@ -1,0 +1,14 @@
+C:\Users\Dani\source\repos\ej1bbdd\ej1bbdd\bin\Debug\bbdd1.mdf
+C:\Users\Dani\source\repos\ej1bbdd\ej1bbdd\bin\Debug\bbdd1_log.ldf
+C:\Users\Dani\source\repos\ej1bbdd\ej1bbdd\bin\Debug\ej1bbdd.exe.config
+C:\Users\Dani\source\repos\ej1bbdd\ej1bbdd\bin\Debug\ej1bbdd.exe
+C:\Users\Dani\source\repos\ej1bbdd\ej1bbdd\bin\Debug\ej1bbdd.pdb
+C:\Users\Dani\source\repos\ej1bbdd\ej1bbdd\obj\Debug\ej1bbdd.csproj.AssemblyReference.cache
+C:\Users\Dani\source\repos\ej1bbdd\ej1bbdd\obj\Debug\ej1bbdd.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dani\source\repos\ej1bbdd\ej1bbdd\obj\Debug\ej1bbdd.Form1.resources
+C:\Users\Dani\source\repos\ej1bbdd\ej1bbdd\obj\Debug\ej1bbdd.Properties.Resources.resources
+C:\Users\Dani\source\repos\ej1bbdd\ej1bbdd\obj\Debug\ej1bbdd.csproj.GenerateResource.cache
+C:\Users\Dani\source\repos\ej1bbdd\ej1bbdd\obj\Debug\ej1bbdd.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\ej1bbdd\ej1bbdd\obj\Debug\ej1bbdd.exe
+C:\Users\Dani\source\repos\ej1bbdd\ej1bbdd\obj\Debug\ej1bbdd.pdb
+C:\Users\Dani\source\repos\ej1bbdd\ej1bbdd\obj\Debug\ej1bbdd.Form2.resources
